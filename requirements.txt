@@ -109,3 +109,6 @@ amqp==2.3.2
 billiard==3.5.0.4
 cairocffi==0.8.1
 kombu==4.2.1
+
+# Fix https://github.com/teltek/badgr-server/blob/v2.12.3-fix-packages/apps/mainsite/settings.py#L427
+certifi==2018.8.13
